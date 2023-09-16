@@ -15,7 +15,7 @@ const Hero = () => {
         Summarize Articles <span className="blue_gradient">with AI</span>
       </h1>
       <h2 className="desc">
-        Simplify your text with SumAI, an open-source article summarizer that transforms long articles into short and easy to read summaries
+        Simplify text with SumAI, an open-source article summarizer that transforms long articles into short and easy to read summaries
       </h2>
     </header>
   );
