@@ -33,7 +33,7 @@ SumAI is an open-source, easy to use article summarizer that transforms long art
  API</a>.
     <br />
     <br />
-    <a href="https://vercel.com/saschastg/ai-summarizer/97GjGDwNTxWwLobq7sX8hzz7HfsF>View Website</a>
+    <a href="https://vercel.com/saschastg/ai-summarizer/97GjGDwNTxWwLobq7sX8hzz7HfsF">View Website</a>
   </p>
 </div>
 
