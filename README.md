@@ -23,7 +23,7 @@
 
 <br />
 <div align="center">
-  <a href="https://news-today-ckz9smmck-saschastg.vercel.app/">
+  <a href="https://vercel.com/saschastg/ai-summarizer/97GjGDwNTxWwLobq7sX8hzz7HfsF">
     <div align="center">
     <img src="https://i.ibb.co/QrNrLcg/logo-4x-100.jpg" alt="Logo" width="200" height="60">
     </div>
@@ -33,7 +33,7 @@ SumAI is an open-source, easy to use article summarizer that transforms long art
  API</a>.
     <br />
     <br />
-    <a href="https://news-today-ckz9smmck-saschastg.vercel.app/">View Website</a>
+    <a href="https://vercel.com/saschastg/ai-summarizer/97GjGDwNTxWwLobq7sX8hzz7HfsF>View Website</a>
   </p>
 </div>
 
