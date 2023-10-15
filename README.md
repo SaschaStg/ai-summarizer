@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://ai-summarizer-r2d4mymdz-saschastg.vercel.app/">
     <div align="center">
-    <img src="https://i.ibb.co/QrNrLcg/logo-4x-100.jpg" alt="Logo" width="200" height="60">
+      <img src="https://i.ibb.co/Cn2zxNb/Screenshot-2023-10-15-143940.png">
     </div>
   </a>
 <br />
@@ -75,7 +75,7 @@ You can enter any url that has an article, recipe or any other text in it. SumAI
 1. Get a free API Key at [https://rapidapi.com/restyler/api/article-extractor-and-summarizer](https://rapidapi.com/restyler/api/article-extractor-and-summarizer)
 2. Clone the repo
    ```sh
-   git clone https://github.com/SaschaStg/news-today.git
+   git clone https://github.com/SaschaStg/ai-summarizer.git
    ```
 3. Install NPM packages
    ```sh
